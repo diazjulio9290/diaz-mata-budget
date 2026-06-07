@@ -1,0 +1,8 @@
+{
+  "name": "diaz-mata-budget",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.2"
+  }
+}

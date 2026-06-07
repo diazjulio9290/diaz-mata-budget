@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/diaz-mata-budget/assets/:path*",
+      "destination": "/assets/:path*"
+    },
+    {
+      "source": "/diaz-mata-budget",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/diaz-mata-budget/",
+      "destination": "/index.html"
+    }
+  ]
+}
